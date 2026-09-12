@@ -28,6 +28,7 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [TypeScript](#typescript)
 * [UML](#uml)
 * [Visual Basic](#visual-basic)
 
@@ -215,6 +216,11 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+
+
+### TypeScript
+
+* [The Concise TypeScript Book (edizione italiana)](https://gibbok.github.io/typescript-book/it-it/) - Gibbok (HTML)
 
 
 ### UML
